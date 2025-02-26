@@ -4,3 +4,5 @@ Yang, L., Zhao, S., Zhai, Y., Gao, S., Wang, F., Lian, Z., Duanmu, L., Zhang, Y.
 
 We cleaned the data (documented in the Data_cleaning.ipynb) and the resulted files are CN_DB_CITY and CN_DB for regression discontinuity analysis
 
+Note:
+Thermal preference (cooler, no change, warmer)is described in the paper, but is missing in the dataset
